@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://SativaDelight.info/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/post/eucyluptus/</loc>
+    <loc>https://SativaDelight.info/post/eucyluptus/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/post/orange/</loc>
+    <loc>https://SativaDelight.info/post/orange/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/post/</loc>
+    <loc>https://SativaDelight.info/post/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://SativaDelight.info/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://SativaDelight.info/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/post/white/</loc>
+    <loc>https://SativaDelight.info/post/white/</loc>
   </url>
   
 </urlset>

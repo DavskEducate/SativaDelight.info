@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Sativa Delight</title>
-    <link>https://example.org/post/</link>
+    <link>https://SativaDelight.info/post/</link>
     <description>Recent content in Posts on Sativa Delight</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Information wants to be free [Stewart Brand, 1984]</copyright>
     
-	<atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://SativaDelight.info/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eucalyptus Bath Bombs</title>
-      <link>https://example.org/post/eucyluptus/</link>
+      <link>https://SativaDelight.info/post/eucyluptus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/eucyluptus/</guid>
+      <guid>https://SativaDelight.info/post/eucyluptus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Orange Glad it&#39;s a Bath Bomb</title>
-      <link>https://example.org/post/orange/</link>
+      <link>https://SativaDelight.info/post/orange/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/orange/</guid>
+      <guid>https://SativaDelight.info/post/orange/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vanilla Seceret</title>
-      <link>https://example.org/post/white/</link>
+      <link>https://SativaDelight.info/post/white/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/white/</guid>
+      <guid>https://SativaDelight.info/post/white/</guid>
       <description>```</description>
     </item>
     
